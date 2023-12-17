@@ -1,1 +1,12 @@
 # Current-Emerging-Trends-in-Computer-Science
+# The work that I did on this project:
+For this project, three files were provided. The TreasureMaze.py class represents the environment with a maze object defined as a matrix. The GameExperience.py class stores episodes, which are all the states between the initial and terminal state. This is later used by the agent for "exploration." The TreasureHuntGame.ipynb notebook demonstrates how to play the game. My task was to complete the deep Q-learning implementation, using a provided skeleton. The goal was to find the best navigation sequence to reach the treasure cell, maximizing the reward. In the implementation, I aimed to achieve the optimal number of epochs for a 100% win rate.
+
+# What do computer scientists do and why does it matter?
+Computer scientists do a variety of tasks, like software development, algorithm design, data analysis, machine learning, cybersecurity, networking, and research. Their work is crucial as it drives technological advancements, solving real-world problems, improving global connectivity, fostering economic growth, and spurring innovation. By creating efficient algorithms, securing digital systems, advancing AI, and designing user-friendly interfaces, computer scientists shape the digital landscape, playing a vital role in technology's continuous evolution and its impact on society.
+
+# My approach to a problem as a computer scientist:
+As a computer scientist, solving a problem involves several steps. First, thoroughly understand the problem by breaking it down, identifying essential components. Devise a plan or algorithm to address each part efficiently. Implement the solution through coding or using appropriate tools. Rigorously test to ensure correctness and handle various scenarios. Be open to feedback, iterate on the solution, and collaborate with others. Seek resources, leverage existing knowledge, and document the solution and reasoning for future reference and sharing.
+
+# Ethical responsibilities to the end user and the organization:
+Developers have ethical responsibilities to prioritize end user safety, privacy, and accessibility, ensuring software meets high standards. Transparently communicate risks, adhere to legal requirements, and respect user consent. Developers are accountable to the organization by promoting code integrity, fostering a collaborative work environment, and aligning with company values. Prioritize delivering reliable, efficient, and well-documented solutions that positively contribute to the organization's goals.
